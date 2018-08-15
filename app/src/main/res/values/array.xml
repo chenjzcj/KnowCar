@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carInfos">
+        <!--德国9款-->
+        <item>宝马 BMW%德国#http://dwz.cn/33Z9tr</item>
+        <item>保时捷 Porsche%德国#http://dwz.cn/33Zaue</item>
+        <item>奔驰 BENZ%德国#http://dwz.cn/33Zb2r</item>
+        <item>奥迪 Audi%德国#http://dwz.cn/33ZcBy</item>
+        <item>欧宝 Opel%德国#http://dwz.cn/33Zd7O</item>
+        <item>大众 Volkswagen%德国#http://dwz.cn/33ZdCP</item>
+        <item>精灵 Smart%德国#http://dwz.cn/33ZeoC</item>
+        <item>迈巴赫 Maybach%德国#http://dwz.cn/33ZeTq</item>
+        <item>迷你 Mini%德国#http://dwz.cn/33ZfqR</item>
+        <!--美国10款-->
+        <item>凯迪拉克 Cadillac%美国#http://dwz.cn/33ZgHG</item>
+        <item>林肯 Lincoln%美国#http://dwz.cn/33ZheU</item>
+        <item>别克 Buick%美国#http://dwz.cn/33ZhyB</item>
+        <item>福特 Ford%美国#http://dwz.cn/33Zilj</item>
+        <item>克莱斯勒 Chrysler%美国#http://dwz.cn/33ZjS4</item>
+        <item>雪佛兰 Chevrole%美国#http://dwz.cn/33Zknw</item>
+        <item>GMC GMC%美国#http://dwz.cn/33ZmbH</item>
+        <item>道奇 Dodge%美国#http://dwz.cn/33Zoc4</item>
+        <item>悍马 Hummer%美国#http://dwz.cn/33ZpQW</item>
+        <item>吉普 Jeep%美国#http://dwz.cn/33Zv83</item>
+        <!--意大利6款-->
+        <item>阿尔法·罗密欧 Alfa Romeo%意大利#http://dwz.cn/33Zz08</item>
+        <item>法拉利  Ferrari%意大利#http://dwz.cn/33ZGag</item>
+        <item>菲亚特 Fiat%意大利#http://dwz.cn/33ZGYh</item>
+        <item>兰博基尼 Lamborghini%意大利#http://dwz.cn/33ZKsM</item>
+        <item>蓝旗亚 Lancia%意大利#http://dwz.cn/33ZMjW</item>
+        <item>玛莎拉蒂 Maserati%意大利#http://dwz.cn/33ZQYC</item>
+        <!--英国7款-->
+        <item>阿斯顿·马丁 Aston Martin%英国#http://dwz.cn/33ZAUt</item>
+        <item>宾利 Bentley%英国#http://dwz.cn/33ZDRN</item>
+        <item>捷豹(美洲虎) Jaguar%英国#http://dwz.cn/33ZHRl</item>
+        <item>劳斯莱斯 Rolls_royce%英国#http://dwz.cn/33ZN9B</item>
+        <item>莲花 Lotus%英国#http://dwz.cn/33ZP6q</item>
+        <item>路虎 Landrover%英国#http://dwz.cn/33ZQ9r</item>
+        <item>名爵(MG) MorrisGarages%英国#http://dwz.cn/340MnU</item>
+        <!--法国4款-->
+        <item>标致 Peugeot%法国#http://dwz.cn/33ZCT5</item>
+        <item>雷诺 Renault%法国#http://dwz.cn/33ZNPI</item>
+        <item>布加迪 Bugatti%法国#http://dwz.cn/33ZFC1</item>
+        <item>雪铁龙 Citroen%法国#http://dwz.cn/33ZW1J</item>
+        <!--瑞典3款-->
+        <item>科尼赛格 Koenigsegg%瑞典#http://dwz.cn/33ZJiP</item>
+        <item>萨博 Saab%瑞典#http://dwz.cn/33ZTa2</item>
+        <item>富豪 Volvo%瑞典#http://dwz.cn/33ZVpB</item>
+        <!--捷克1款-->
+        <item>斯柯达 Skoda%捷克#http://dwz.cn/33ZTa2</item>
+        <!--日本11款-->
+        <item>丰田 Toyota%日本#http://dwz.cn/3407PX</item>
+        <item>本田 Honda%日本#http://dwz.cn/3406Lt</item>
+        <item>光冈 Mitsuoka%日本#http://dwz.cn/3409vI</item>
+        <item>雷克萨斯(凌志) Lexus%日本#http://dwz.cn/3409Xt</item>
+        <item>铃木 Suzuki%日本#http://dwz.cn/340eZU</item>
+        <item>马自达 Mazda%日本#http://dwz.cn/340fVf</item>
+        <item>讴歌 Acura%日本#http://dwz.cn/340he3</item>
+        <item>尼桑(日产) Nissan%日本#http://dwz.cn/340jf1</item>
+        <item>三菱 Mitsubishi%日本#http://dwz.cn/340jZq</item>
+        <item>斯巴鲁 Subaru%日本#http://dwz.cn/340m2A</item>
+        <item>英菲尼迪 Infiniti%日本#http://dwz.cn/340mI8</item>
+        <!--韩国4款-->
+        <item>起亚 Kia%韩国#http://dwz.cn/340iUJ</item>
+        <item>双龙 SSANG YONG %韩国#http://dwz.cn/340kPt</item>
+        <item>现代 Hyundai%韩国#http://dwz.cn/340mwm</item>
+        <item>大宇 Daewoo%韩国#http://dwz.cn/340nsZ</item>
+        <!--中国65款-->
+        <item>安驰 Anchi%中国#http://dwz.cn/340ODL</item>
+        <item>宝龙%中国#http://dwz.cn/340PbG</item>
+        <item>北汽%中国#http://dwz.cn/340PJO</item>
+        <item>奔腾%中国#http://dwz.cn/340Qxm</item>
+        <item>比亚迪%中国#http://dwz.cn/340RhB</item>
+        <item>昌河%中国#http://dwz.cn/340RHq</item>
+        <item>大迪%中国#http://dwz.cn/340RT7</item>
+        <item>帝豪%中国#http://dwz.cn/340Sqw</item>
+        <item>东风%中国#http://dwz.cn/340SFV</item>
+        <item>东风风神%中国#http://dwz.cn/340SYi</item>
+
+        <item>东南%中国#http://dwz.cn/340WY1</item>
+        <item>东风风行%中国#http://dwz.cn/340XJZ</item>
+        <item>福迪%中国#http://dwz.cn/340Y8b</item>
+        <item>福田%中国#http://dwz.cn/340YMr</item>
+        <item>富奇%中国#http://dwz.cn/340Z6x</item>
+        <item>广汽日野%中国#http://dwz.cn/340ZdH</item>
+        <item>哈飞%中国#http://dwz.cn/3410kK</item>
+        <item>海马(商用车)%中国#http://dwz.cn/34118o</item>
+        <item>海马%中国#http://dwz.cn/3411Pw</item>
+        <item>汉江(倒闭了,没有百科)%中国#http://dwz.cn/3411Pw</item>
+
+        <item>航天圆通(倒闭了,没有百科)%中国#http://dwz.cn/3411Pw</item>
+        <item>红旗%中国#http://dwz.cn/34ttr7</item>
+        <item>华普%中国#http://dwz.cn/34ttKi</item>
+        <item>华泰%中国#http://dwz.cn/34tut0</item>
+        <item>汇众%中国#http://dwz.cn/34tuYY</item>
+        <item>吉奥%中国#http://dwz.cn/34tvnL</item>
+        <item>吉利%中国#http://dwz.cn/34tw2R</item>
+        <item>江淮(JAC)%中国#http://dwz.cn/34tx0n</item>
+        <item>江铃%中国#http://dwz.cn/34txum</item>
+        <item>江南%中国#http://dwz.cn/34tyvc</item>
+
+        <item>金杯%中国#http://dwz.cn/34tA40</item>
+        <item>金龙%中国#http://dwz.cn/34tALs</item>
+        <item>开瑞%中国#http://dwz.cn/34tBtq</item>
+        <item>力帆%中国#http://dwz.cn/34tBZV</item>
+        <item>莲花(青年)%中国#http://dwz.cn/34tCug</item>
+        <item>陆风%中国#http://dwz.cn/34tCFm</item>
+        <item>美亚%中国#http://dwz.cn/34tDew</item>
+        <item>奇瑞%中国#http://dwz.cn/34tDTI</item>
+        <item>庆铃%中国#http://dwz.cn/34tEee</item>
+        <item>全球鹰%中国#http://dwz.cn/34tEIL</item>
+
+        <item>荣威%中国#http://dwz.cn/34tFBK</item>
+        <item>瑞麒%中国#http://dwz.cn/34tFI4</item>
+        <item>上海英伦%中国#http://dwz.cn/34tFXt</item>
+        <item>曙光%中国#http://dwz.cn/34tGDZ</item>
+        <item>双环%中国#http://dwz.cn/34tGNf</item>
+        <item>天马%中国#http://dwz.cn/34tHrC</item>
+        <item>威麟%中国#http://dwz.cn/34tHJ2</item>
+        <item>五菱%中国#http://dwz.cn/34tHQB</item>
+        <item>新大地%中国#http://dwz.cn/34tInu</item>
+        <item>新凯%中国#http://dwz.cn/34tIGx</item>
+
+        <item>新雅途%中国#http://dwz.cn/34tKXz</item>
+        <item>野马%中国#http://dwz.cn/34tMcl</item>
+        <item>一汽%中国#http://dwz.cn/34tMk8</item>
+        <item>依维柯 NAVECO%中国#http://dwz.cn/33ZXiM</item>
+        <item>永源%中国#http://dwz.cn/34tNHa</item>
+        <item>长安(轿车)%中国#http://dwz.cn/34tOru</item>
+        <item>长安(微车)%中国#http://dwz.cn/34tORs</item>
+        <item>长城%中国#http://dwz.cn/34tPaR</item>
+        <item>长丰%中国#http://dwz.cn/34tQ1Y</item>
+        <item>中华%中国#http://dwz.cn/34tPYD</item>
+
+        <item>中客华北%中国#http://dwz.cn/34tQuK</item>
+        <item>中顺%中国#http://dwz.cn/34tR9O</item>
+        <item>中兴%中国#http://dwz.cn/34tRR2</item>
+        <item>众泰%中国#http://dwz.cn/34tRVQ</item>
+    </string-array>
+    <string-array name="carIntroduces">
+        <item>@string/bmw_intro</item>
+        <item>@string/porsche_intro</item>
+        <item>@string/benz_intro</item>
+        <item>@string/audi_intro</item>
+        <item>@string/opel_intro</item>
+        <item>@string/volkswagen_intro</item>
+        <item>@string/cadillac_intro</item>
+        <item>@string/lincoln_intro</item>
+        <item>@string/buick_intro</item>
+        <item>@string/ford_intro</item>
+        <item>@string/chrysler_intro</item>
+        <item>@string/chevrole_intro</item>
+        <item>@string/rolls_royce_intro</item>
+        <item>@string/jaguarl_intro</item>
+        <item>@string/landrover_intro</item>
+        <item>@string/lotus_intro</item>
+        <item>@string/bentley_intro</item>
+        <item>@string/ferrari_intro</item>
+        <item>@string/fiat_intro</item>
+        <item>@string/citroen_intro</item>
+        <item>@string/peugeot_intro</item>
+        <item>@string/renault_intro</item>
+        <item>@string/lexus_intro</item>
+        <item>@string/toyota_intro</item>
+        <item>@string/honda_intro</item>
+        <item>@string/mazda_intro</item>
+        <item>@string/nissan_intro</item>
+        <item>@string/infiniti_intro</item>
+        <item>@string/hongqi_intro</item>
+        <item>@string/beijingjipu_intro</item>
+        <item>@string/zhonghua_intro</item>
+        <item>@string/dongfeng_intro</item>
+        <item>@string/qirui_intro</item>
+        <item>@string/volvo_intro</item>
+        <item>@string/skoda_intro</item>
+        <item>@string/kia_intro</item>
+        <item>@string/daewoo_intro</item>
+        <item>@string/hyundai_intro</item>
+    </string-array>
+</resources>

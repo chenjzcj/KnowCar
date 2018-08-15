@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_about"
+        android:icon="@mipmap/car1"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="关于识车宝" />
+    <item
+        android:id="@+id/action_switch"
+        android:title="切换显示模式" />
+</menu>
