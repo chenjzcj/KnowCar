@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASProjects-KnowCar.iml" filepath="$PROJECT_DIR$/.idea/modules/ASProjects-KnowCar.iml" group="KnowCar" />
       <module fileurl="file://$PROJECT_DIR$/KnowCar.iml" filepath="$PROJECT_DIR$/KnowCar.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KnowCar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KnowCar.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="KnowCar/app" />
     </modules>
   </component>
 </project>
